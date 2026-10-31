@@ -75,6 +75,8 @@ proxy:
     supported: true
 
 changelog:
+- date: '2026-10-27'
+  text: 'Reference PR only, not for merging: add php85-gmp to show a package change in the PR report.'
 - date: '2026-07-14'
   text: Rebase to Alpine 3.24
 - date: '2025-07-20'
