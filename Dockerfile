@@ -13,6 +13,7 @@ RUN \
   echo "**** install runtime packages ****" && \
   apk add --no-cache \
     php85-dom \
+    php85-gmp \
     php85-intl \
     php85-pdo_mysql \
     php85-pdo_pgsql \
